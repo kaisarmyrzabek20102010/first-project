@@ -1,0 +1,30 @@
+.div{
+    margin-top: 200px;
+    margin-left: 600px;
+    margin-right: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #ededed;
+    box-shadow: 5px 5px 6px;
+    border: 5px 5px 5px  black;
+}
+
+.form1{
+    padding-top: 10px;
+}
+
+.but{
+    margin-top: 30px;
+}
+
+.but:hover{
+    background-color: #ededed ;
+}
+
+body{
+    background: url(art.webp);
+    display: flex;
+    justify-content: center;
+}
